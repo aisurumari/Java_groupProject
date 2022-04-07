@@ -1,0 +1,15 @@
+HBox {
+    -fx-alignment: CENTER_LEFT;
+    -fx-pref-height: 28;
+    -fx-spacing: 10;
+}
+
+Label {
+    -fx-text-alignment: RIGHT;
+    -fx-pref-width: 100;
+    -fx-alignment: CENTER_RIGHT;
+}
+
+TextField {
+    -fx-pref-width: 316;
+}
